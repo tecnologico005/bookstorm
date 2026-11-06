@@ -1,0 +1,15 @@
+# Core dependencies
+pygame>=2.0.0
+beautifulsoup4>=4.9.0
+lxml>=4.6.0
+mutagen>=1.45.0
+pypdf
+mpv
+requests>=2.25.0
+setproctitle>=1.3.0
+
+# Optional dependencies
+# piper-tts: Install separately with voice models to /usr/share/piper-voices/
+# ffmpeg: Install via system package manager for M4B/M4A support
+# calibre: Install via system package manager for MOBI support (provides ebook-convert)
+# dasbus: Optional screen reader integration (Orca/Cthulhu over D-Bus)
